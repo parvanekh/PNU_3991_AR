@@ -4,9 +4,10 @@
 	
 
 	---
-	+ [حساب گیت هاب](https://github.com/parvanekh)
-	+ [ رزومه](https://parvanekh.github.io)
-	+ [انگیزنامه](https://parvanekh.github.io/SOP)
+        - [PNU_3991_AR](https://github.com/parvanekh/PNU_3991_AR)
+	- [github](https://github.com/parvanekh)
+	- [resume](https://parvanekh.github.io)
+	- [SOP](https://parvanekh.github.io/SOP)
 	
 
 	
