@@ -6,7 +6,7 @@
 + [PNU_3991_AR](https://github.com/parvanekh/PNU_3991_AR)
 + [git](https://github.com/parvanekh)
 + [resume](https://parvanekh.github.io)
-+ [SOP](https://github.com/parvanekh/SOP)
++ [SOP](https://parvanekh.github.io/SOP/)
 
 
 -------------------
