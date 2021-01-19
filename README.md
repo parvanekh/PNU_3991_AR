@@ -19,6 +19,18 @@
 [ متدولوژي ايجاد نرم افزار 01-1115282 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)
 [ درس سمینار - 02-1115029 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
 
+
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/parvanekh/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/PKH_CV_CheckList_AR_3991.docx)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/parvanekh/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/PKH_GeneralSection_CheckList_AR_3991.docx)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/parvanekh/PNU_3991_AR/blob/main/SoftwareArchitecture/PKH_SoftwareArchitecture_CheckList_AR_3991.docx)
+- [خلاصه ارزیابی درس_متدولوژی](https://github.com/parvanekh/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/PKH_SoftwareDevelopmentMethodologies_CheckList_AR_3991.docx)
+
 -----------------
 
 
