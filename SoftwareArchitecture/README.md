@@ -23,7 +23,7 @@
 
 ## CHAPTER 1_Architectures
 
-- [Software Architectures]()
+- [Software Architectures](https://drive.google.com/file/d/1FLIQ9qqzHmFAWgYsDXamji9xjhTItBhA/view?usp=sharing)
 ---------------------------
 
 
